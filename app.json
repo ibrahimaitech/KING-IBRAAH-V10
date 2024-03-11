@@ -1,0 +1,73 @@
+{
+	"name": "X-BOT-MD",
+	"description": "TEAM EX-BOT-Z",
+	"keywords": [
+		"whatsapp",
+		"bot"
+	],
+	"repository": "https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD",
+	"stack": "container",
+    "env": { 
+	    "MONGODB_URL": {
+            "description": "use your mongo db uri",
+            "required": true,
+            "value":""
+        },
+        "PREFIX": {
+            "description": "Prefix of commands. Can be also false",
+            "required": true,
+            "value":"."
+        },
+        "AUTO_STATUS_VIEW": {
+            "description": "AUTO STATUS READER",
+            "required": false,
+            "value":"true"
+        },
+        "MENTION": {
+            "description": "Type true to on mention type false to off mention",
+            "required": true,
+            "value":"true"
+        },
+      "MENTION_DATA": {
+            "description": "Enter your mention data here",
+            "required": false,
+            "value":"X-BOT-MD;MULTI-DEVICE BOT BY TEAM EX-BOT-Z;https://wa.me/917012984396;https://i.imgur.com/3cMVKBk.jpeg"
+        },
+	    "MENTION_AUDIO": {
+            "description": "Enter your mention audio link here",
+            "required": false,
+            "value": "https://graph.org/file/1464256c054cd85844659.mp4,https://graph.org/file/9696d880c07fd9557dad7.mp4"
+        },
+        "STICKER_DATA": {
+            "description": "Name of stickers created using bot. Can also split using ;",
+            "required": true,
+            "value":"X-BOT-MD;ASWIN SPARKY"
+        },
+        "BOT_INFO": {
+            "description": "Name, image, owner and other details in menu (seperate with comma)",
+            "required": true,
+            "value":"X-BOT-MD;ASWIN SPARKY;https://i.imgur.com/XJ0D4Tq.mp4"
+        },
+	    "SUDO": {
+            "description": "These numbers can control your bot. seperate with commas",
+            "required": false,
+            "value":"917012984396"
+        },
+       "SESSION_ID": {
+            "description": "Your MD session",
+            "required": true
+             
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        },
+        {
+            "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+        }
+    ]
+  }
