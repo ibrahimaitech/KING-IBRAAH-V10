@@ -71,10 +71,10 @@ module.exports = {
               file.replace(".js", "").charAt(0).toUpperCase() +
               file.replace(".js", "").slice(1);
 
-            formatted += `┏────▷ *${capitalizedFile}* ◁⊰\n`;
+            formatted += `┏────〘 *${capitalizedFile}* ◁⊰\n`;
             formatted += `\`\`\`${commands
               .map((cmd) => `│▸ ${prefix + cmd}`)
-              .join("\n")}\`\`\`\n┗────────────⊰\n\n`;
+              .join("\n")}\`\`\`\n┗────────────☫\n\n`;
           }
 
           return formatted.trim();
