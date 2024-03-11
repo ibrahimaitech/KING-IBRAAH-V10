@@ -1,8 +1,8 @@
 <p align="center"> 
-      <h1 align="center">X BOT MD MD V-2.00</h1>
+      <h1 align="center">IBRAAH-MDV10</h1>
   <a href="https://x-md-qr-elctro-wizard.koyeb.app">
         <p align="center">
-   <img alt="ASWIN SPARKY" height="300" src="https://i.imgur.com/Q2UNwXR.jpg">
+   <img alt="IBRAHIM-TECH" height="300" src="https://telegra.ph/file/95082a54595e236485d75.jpg">
               </p>
   </a>
 </p>
@@ -62,83 +62,5 @@
    <br><br>
 3. Now Deploy
     <br>
-<a href='https://heroku.com/deploy?template=https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/KING-IBRAAH-V10' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
 
-#### DEPLOY ON RAILWAY
-
-1. If You don't have a account in Railway. Create a account.
-    <br>
-<a href='https://railway.app' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=railway'/></a>
-2. Get [Mongo DB URI](https://www.mongodb.com/)
-   <br><br>
-3. Now Deploy
-    <br>
-<a href='https://railway.app' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway'/></a>
-
-
-
-#### DEPLOY TO KOYEB 
-
-1. If You don't have a account in koyeb. Create a account.
-    <br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb'/></a>
-
-2. Get [Koyeb api key](https://app.koyeb.com/account/api)
-
-4. Now Deploy
-    <br>
-<a href='https://app.koyeb.com/apps/new/import-project' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
-
-#### DEPLOY ON CYCLIC
-
-1. If You don't have a account in Cyclic. Create a account.
-    <br>
-<a href='https://cyclic.sh' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=c'/></a>
-2. Get [Mongo DB URI](https://www.mongodb.com/)
-   <br><br>
-3. Now Deploy
-    <br>
-<a href='https://cyclic.sh' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=c'/></a>
-
-#### DEPLOY ON MOGENIUS
-
-1. If You don't have a account in Replit. Create a account.
-    <br>
-<a href='https://mogenius.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=genius'/></a>
-2. Get [Mongo DB URI](https://www.mongodb.com/)
-   <br><br>
-3. Now Deploy
-    <br>
-<a href='https://mogenius.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=genius'/></a>
-
-
-## 🗿 Why Should You Use X-BOT-MD as your Base :
-
-      
-<details close>
-<summary>Read More</summary>
-
-<br>
-
-- X-BOT-MD is a `fully open source` bot which means `no copyright`.
-- X-BOT-MD is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
-
-  </details> 
-    
-
-#### Thanks To
-
-<details close>
-<summary>Read More</summary>
-
-<br>
-
-* [`EX-KRIZ`](https://github.com/EX-KRIZ)
-* [`VIPER`](https://github.com/Viper-X0)
-* ## Beta Testers
-•🤍⃟͢𝆺𝅥𝘼𝙟𝙖𝙡 𝙎ᴇʀ𝆺𝅥⃟͢🍒
-</br>
-
-•_[--> 𝘈𝘫𝘴𝘢𝘭 🍒]_
-
- </details>
